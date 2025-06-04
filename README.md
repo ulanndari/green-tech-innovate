@@ -1,5 +1,4 @@
 # green-tech-innovate
-{link logo}(https://github.com/ulanndari/green-tech-innovate/blob/main/inovasi_lingkungan_hijau.jpeg)
 -----
 ##### 🌿 Selamat datang di proyek ini!
 saya percaya bahwa teknologi tidak hanya memudahkan hidup, tapi juga bisa menyelamatkan bumi.
