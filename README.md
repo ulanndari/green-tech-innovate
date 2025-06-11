@@ -8,4 +8,4 @@ Di mana koperasi lokal punya sistem digital sendiri.
 Inilah misi kami: menghadirkan teknologi hijau.
 Melalui sistem ini, kami bantu UMKM dan bank sampah lebih efisien, lebih mandiri, dan lebih ramah lingkungan 🌎
 ini adalah pengalaman baru saya juga, mari sama-sama kita belajar dan menciptakan inovasi lingkungan hijau.
-[Alt](https://github.com/ulanndari/green-tech-innovate/blob/main/inovasi_lingkungan_hijau.jpeg?raw=true)
+![Alt](https://github.com/ulanndari/green-tech-innovate/blob/main/inovasi_lingkungan_hijau.jpeg?raw=true)
